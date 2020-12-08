@@ -138,10 +138,10 @@ class Instabrute():
 os.system("clear")
 os.system("figlet INSTA H4CK3R")
 print
-print "Author    : Stephin-Franklin"
+print "Author    : Ashok Kanuka"
 print "YouTube   : https://www.youtube.com/AnonymousTim3"
-print "github    : https://github.com/Stephin-Franklin"
-print "Instagram : https://www.instagram.com/st1chb45h"
+print "github    : https://github.com/ashokkanuka29"
+print "Instagram : https://www.instagram.com/000___anonymous___000   "
 print
 
 
